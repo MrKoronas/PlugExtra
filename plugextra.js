@@ -90,7 +90,7 @@ function dragLog(e)
 function resetLayout()
 {
 	var log = document.getElementById("log");
-	log.style.top = "288px";
+	log.style.top = "388px";
 	log.style.right = "177px";
 	log.style.width = "837px";
 	log.style.height = "271px";
