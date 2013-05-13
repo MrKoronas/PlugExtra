@@ -3,7 +3,7 @@
 var version = "1.3.1";
 
 var playcount = 1; 
-var autowoot = false;
+var autowoot = true;
 var autojoin = false;
 var isaway = false;
 var willprintmsg = false;
