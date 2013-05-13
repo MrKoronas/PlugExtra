@@ -180,7 +180,7 @@ function toggleLog()
 
 explog.style.position = "relative";
 explog.id = "togg";
-explog.style.top = "275px";
+explog.style.top = "750px";
 explog.style.width = "30px";
 //explog.style.color = "white";
 //explog.style.backgroundColor = "#111111";
