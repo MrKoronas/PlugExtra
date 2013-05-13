@@ -876,7 +876,7 @@ function toggleWoot()
 
 expwoot.style.position = "relative";
 expwoot.id = "expwoot";
-expwoot.style.top = "500px";
+expwoot.style.top = "470px";
 expwoot.style.width = "30px";
 expwoot.style.height = "30px";
 expwoot.style.margin = "auto";
@@ -915,7 +915,7 @@ function toggleJoin()
 
 expjoin.style.position = "relative";
 expjoin.id = "expjoin";
-expjoin.style.top = "490px";
+expjoin.style.top = "430px";
 expjoin.style.width = "30px";
 expjoin.src = "http://2dforts.dyndns.org/plug/autojoinoff.png";
 expjoin.style.height = "30px";
