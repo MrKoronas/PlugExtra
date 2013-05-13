@@ -93,15 +93,15 @@ function resetLayout()
 	log.style.top = "750px";
 	log.style.right = "177px";
 	log.style.width = "837px";
-	log.style.height = "271px";
+	log.style.height = "190px";
 	var but1 = document.getElementById("togg");
-	but1.style.top = "275px";
+	but1.style.top = "510px";
 	but1.style.left = "225px";
 	var but2 = document.getElementById("expwoot");
-	but2.style.top = "245px";
+	but2.style.top = "510px";
 	but2.style.left = "195px";
 	var but3 = document.getElementById("expjoin");
-	but3.style.top = "215px";
+	but3.style.top = "510px";
 	but3.style.left = "165px";
 }
 
