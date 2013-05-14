@@ -1,1 +1,3 @@
-<a class="stable" href="javascript:(function(){$.getScript('http://tatdk.github.io/plugCubed/compiled/plugCubed.js');}());">plug³</a>
+Copy this line
+
+<a href="javascript:(function(){var a=document.createElement('script');a.setAttribute('id','plugextra-js');document.body.appendChild(a);a.setAttribute('src','https://raw.github.com/MrKoronas/PlugExtra/master/plugextra.js');}());">PlugExtra</a>
