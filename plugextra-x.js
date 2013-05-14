@@ -15,7 +15,7 @@ var leftwait = 0;
 var leftbooth = 0;
 var checkhistory = false;
 var autoskip = false;
-var showannot = true;
+var showannot = false;
 
 function printChat(str)
 {
