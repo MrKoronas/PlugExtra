@@ -8,7 +8,7 @@ document.getElementsByTagName('head')[0].appendChild(pgxStyle);
 
 document.styleSheets[document.styleSheets.length - 1].insertRule("#reloader", "color:#000000");*/
 
-document.body.innerHTML += "<style src='https://raw.github.com/TeeheeLP/PlugExtra/dev/style.css'>";
+document.body.innerHTML += "<style src='https://raw.github.com/MrKoronas/PlugExtra/dev/style.css'>";
 
 function startBot()
 {
