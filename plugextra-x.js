@@ -171,7 +171,7 @@ optionsmenu.appendChild(streamx);
 var annotx = document.createElement("div");
 annotx.style.textAlign = "center";
 annotx.style.cursor = "pointer";
-annotx.style.backgroundColor = "#00DD00";
+annotx.style.backgroundColor = "#DD0000";
 annotx.style.width = "173px";
 annotx.style.marginLeft = "-10px";
 annotx.innerHTML = "Annotations";
