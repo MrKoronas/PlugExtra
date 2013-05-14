@@ -3,7 +3,7 @@
 var version = "1.3.1";
 
 var playcount = 1; 
-var autowoot = false;
+var autowoot = true;
 var autojoin = false;
 var isaway = false;
 var willprintmsg = false;
@@ -886,7 +886,7 @@ expwoot.style.cursor = "pointer";
 expwoot.style.display = "block";
 expwoot.onclick = function () { toggleWoot(); };
 expwoot.title = "Toggle Auto-Woot";
-expwoot.src = "http://2dforts.dyndns.org/plug/autowootoff.png";
+expwoot.src = "http://2dforts.dyndns.org/plug/autowooton.png";
 
 document.body.appendChild(expwoot);
 
