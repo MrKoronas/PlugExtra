@@ -915,7 +915,7 @@ function toggleJoin()
 
 expjoin.style.position = "relative";
 expjoin.id = "expjoin";
-expjoin.style.top = "450px";
+expjoin.style.top = "440px";
 expjoin.style.width = "30px";
 expjoin.src = "http://2dforts.dyndns.org/plug/autojoinoff.png";
 expjoin.style.height = "30px";
